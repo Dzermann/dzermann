@@ -1,6 +1,6 @@
 # 💫 About Me:
 Final-year BEng Mechanical Engineering student, graduating May 2026.<br><br>
-Built an automated CFD pipeline using PyFluent to mesh, solve, and post-process airfoil 
+Built an automated CFD pipeline using PyFluent to mesh, solve, optimize, and post-process airfoil 
 simulations across subsonic, transonic, and supersonic flow regimes.<br><br>
 Self-hosting enthusiast — running Jellyfin, Immich, and Filebrowser on a Linux homelab with Docker + Tailscale.
 
