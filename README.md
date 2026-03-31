@@ -1,5 +1,5 @@
 # 💫 About Me:
-Automating Ansys Fluent using PyFluent<br>
+Automating Ansys Fluent using PyFluent. Currently 4th year Mechanical Engineering student. <br>
 
 
 ## 🌐 Socials:
